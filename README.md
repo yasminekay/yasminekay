@@ -1,7 +1,6 @@
 ### Hi, I'm Yasmine
 
 - 🔭 Fullstack Web Developer sharing my journey and learnings in tech
-- 🌱 Currently learning embedded systems alongside web development
 - 👯 Exploring new technologies and sharing what I learn along the way
   
 ### 🚀 GitHub Stats
